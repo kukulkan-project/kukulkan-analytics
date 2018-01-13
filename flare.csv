@@ -1,0 +1,6 @@
+id,value
+generator.angularjs,30000
+generator.angularjs.entities,30000
+git.create-feature,30000
+git.create-release,30000
+git.create-hotfix,30000
